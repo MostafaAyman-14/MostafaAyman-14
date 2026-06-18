@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-ayman-98b554309)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafa-ayman-portofolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaayman14g@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uIdleeWxsLTsejyPeGl6iTYtmleQn4Y_/view?usp=drive_link)
 
 </div>
 
@@ -17,7 +17,7 @@ Final-year Software Engineering student at **Misr International University**, Ca
 
 I build systems end-to-end: from ML inference pipelines running on GPU infrastructure to microservice architectures orchestrated over message queues. My focus is on the intersection of backend engineering and applied AI — designing systems that are fast, observable, and production-ready.
 
-- 🎓 B.Sc. Software Engineering — Misr International University *(graduating 2025)*
+- 🎓 B.Sc. Software Engineering — Misr International University *(graduating 2026)*
 - 💼 Interned at **Commercial International Bank (CIB)** — Sustainable Finance & FinTech ESG
 - 🌍 Languages: Arabic · English
 - 📬 Open to backend and full-stack engineering roles — Cairo or remote
